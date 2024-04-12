@@ -93,6 +93,7 @@ dist
 
 # Certificates
 ./src/SSL/*
+!./src/SSL/.gitkeep
 
 # Gatsby files
 .cache/
